@@ -1,0 +1,16 @@
+img{
+    width: 300px;
+    border-radius: 150px;
+    float: left;
+    margin-right: 10px;}
+h1{
+    float: left;
+}
+body{
+    background-color: blue;
+    line-height: 1.6em;
+}
+.container{
+    width: 500px;
+    margin: auto;
+}
